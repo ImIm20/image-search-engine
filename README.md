@@ -9,5 +9,6 @@ Step by step solution:
  5. register the model (feature extractor) in azure machine learning. (done)
  6. save the features from database image in azure machine learning. (done)
  7. deploy the app in azure web services. (not done yet)
+
 For the steps 1-4 can be found in file vision-cop-image-search-engine.ipynb, and it can be run in jupyter notebook, colab, or azure machine learning SDK.
 For the steps 5-7 can be found in file model deploy 2 (1).ipynb, and it can be run using azure machine learning SDK.
